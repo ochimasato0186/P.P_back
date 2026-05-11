@@ -1,3 +1,26 @@
+## 環境構築
+
+手順１、Composerをインストールします
+https://getcomposer.org/download/?utm_source=chatgpt.com
+
+確認↓
+```bash
+php -v
+composer -v
+```
+手順２、CドライブにこのGitHubをクローンします。
+
+手順３、実行
+```bash
+cd P.Pback
+php artisan serve
+```
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
